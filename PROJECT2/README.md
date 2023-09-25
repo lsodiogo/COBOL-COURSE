@@ -1,8 +1,20 @@
-| DIOGO LIMA | COBOL | PROJECTS | 2020/2021 |
-| ------ | ------ | ------ | ------ |
+| PROJECT 2 | GROUP | VERSION |
+| ------- | ------|:----:|
+| DELICIOUSSANDWICH | BREADWICH | 3 |
+</br>
 
-### During my COBOL course, two major projects were developed:
+This file is an introduction of the third part of the project **DeliciousSandwich**.
+</br>
+The team has 5 members and the group name is **Breadwich**.
+</br>
+</br>
+In this third part of the project it is expected that we'll make an increment of functionalities, corresponding to the expectations of the forecast of the final result.
+There are 5 different parts to be worked. We are going to assign one part to each team member.
+</br>
+Even though each team member will be responsible for the respective part already assigned, as you can see below, the entire team will work together along the project.
+</br>
+</br>
 
-[**Project 1**](https://github.com/lsodiogo/COBOL.COURSE-2020.2021/tree/main/PROJECT1) was an individual project and [**Project 2**](https://www.google.com/) was a group project.
-
-Here you can find all the code developed as well the documentation of both projects.
+| MEMBERS | Bruno Lopes | César Costa | Diogo Lima | Fernando Botelho | João Fernandes |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| MODULES |	Registration of ingredient’s suppliers | Sandwich registration | Registration of sandwich orders | Ingredients and Calendar improvement | Inventory management |
