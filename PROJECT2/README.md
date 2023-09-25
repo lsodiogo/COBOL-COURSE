@@ -8,7 +8,7 @@ This file is an introduction of the third part of the project **DeliciousSandwic
 The team has 5 members and the group name is **Breadwich**.
 </br>
 </br>
-In this third part of the project it is expected that we'll make an increment of functionalities, corresponding to the expectations of the forecast of the final result.
+In this third part of the project it is expected to be made an increment of functionalities, corresponding to the expectations of the forecast of the final result.
 There are 5 different parts to be worked. We are going to assign one part to each team member.
 </br>
 Even though each team member will be responsible for the respective part already assigned, as you can see below, the entire team will work together along the project.
