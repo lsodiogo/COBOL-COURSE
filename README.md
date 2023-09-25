@@ -6,3 +6,5 @@
 [**Project 1**](https://www.google.com/) was an individual project and [**Project 2**](https://www.google.com/) was a group project.
 
 Here you can find all the code developed as well the documentation.
+
+*(currently being updated)*
