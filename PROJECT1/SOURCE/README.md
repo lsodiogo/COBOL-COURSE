@@ -1,7 +1,7 @@
 | PROJECT 1 | SOURCE CODE |
 | ------ | ------ |
 
-Here you can find all the source doe regarding project 1.
+Here you can find all the source code regarding project 1.
 
 A few comments are written in Portuguese due to academic requirements.
 
