@@ -1,4 +1,4 @@
-| DIOGO LIMA | COBOL | PROJECTS | 2020/2021 |
+| 2020/2021 | DIOGO LIMA | COBOL | PROJECTS |
 | ------ | ------ | ------ | ------ |
 
 ### During my COBOL course, two major projects were developed:
