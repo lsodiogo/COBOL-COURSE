@@ -1,0 +1,49 @@
+@startuml
+header
+UpSkillCobol Breadwitch
+endheader
+
+title \nDeliciousSandwich\n
+/' This is a Logical data model - see the level of details '/
+
+entity Schools {
+  * InternalId
+  * ExternalId
+  * Designation
+  * Address
+}
+
+entity Ingredients {
+  * Attribute
+  * Description
+}
+
+entity Suppliers {
+  * SupplierID
+  * CompanyName
+  * CompanyAdress
+  * CompanyEmail1
+  * CompanyEmail2
+  * CompanyEmail3
+  * CompanyTelephone1
+  * CompanyTelephone2
+  * CompanyTelephone3
+  * CompanyDescription
+}
+
+entity Categories {
+  * Categorie1
+  * Description1
+  * Categorie2
+  * Description2
+  * Categorie3
+  * Description3
+}
+
+/' Bibliography:
+https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/#erd-data-models-logical
+https://plantuml.com/ie-diagram
+https://plantuml.com/commons
+'/
+
+@enduml

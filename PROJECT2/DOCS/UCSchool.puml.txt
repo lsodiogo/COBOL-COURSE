@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+
+header
+UPskillCobol: Breadwich
+endheader
+
+title \nDeliciousSandwich\n
+
+
+
+package School {
+  usecase "UC1: Add school interactively" as UC1
+  usecase "UC2: Add schools from file" as UC2
+  usecase "UC3: Modify schools interactively" as UC3
+  usecase "UC4: View schools" as UC4
+}
+
+Admin --> UC1
+Admin --> UC2
+Admin --> UC3
+Admin --> UC4
+Actor --> UC4
+@enduml

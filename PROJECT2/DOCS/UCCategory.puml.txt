@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+
+header
+UPskillCobol: Breadwich
+endheader
+
+title \nDeliciousSandwich\n
+
+
+
+package Categories {
+  usecase "UC1: Add Category" as UC1
+  usecase "UC2: Modify Category" as UC2
+  usecase "UC3: Remove Category" as UC3
+  usecase "UC4: View Category" as UC4
+}
+
+Admin --> UC1
+Admin --> UC2
+Admin --> UC3
+Admin --> UC4
+Actor --> UC4
+@enduml
