@@ -1,0 +1,12 @@
+001SALGADO                       SALGADO                                           1
+002SALGADO +                     MUITO SALGADO                                     1
+003DOCE                          DOCE                                              1
+004DOCE +                        MUITO DOCE                                        1
+005CALORIAS +                    ENTRE 50 E 75 KCAL                                1
+006CALORIAS ++                   ACIMA DE 75 KCAL                                  1
+007CALORIAS -                    ENTRE 25 E 50 KCAL                                1
+008CALORIAS --                   ABAIXO DE 25 KCAL                                 1
+009QUENTE                        SANDUICHE A SERVIR QUENTE                         1
+010VEGAN                         SANDUICHE VEGETARIANA                             1
+011GLUTEN FREE                   SANDUICHE SEM GLUTEN                              1
+012SEM LACTOSE                   SEM PRODUTOS LACTEOS                              1
